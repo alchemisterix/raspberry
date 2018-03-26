@@ -1,2 +1,2 @@
-This is clone of attraction like a atomic rush
-https://www.youtube.com/watch?v=dl4QcubFt2I
+Simple video player for raspberry with PIR-Sensor activated playback
+https://youtu.be/e56ReV3NSCI
